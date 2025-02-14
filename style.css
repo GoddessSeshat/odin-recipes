@@ -1,0 +1,32 @@
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(11, 11, 20);
+    font-size: 25px;
+    text-align: left;
+    background: rgb(184, 208, 216);
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(55, 109, 134);
+    color: aliceblue;
+}
+
+a {
+    color: rgb(61, 61, 129);
+    font-weight: 600;
+}
+
+a:focus {
+    color: aliceblue;
+}
+
+.list1 {
+    height: auto;
+    width: 300px;
+    box-sizing: border-box;
+    padding: 10px 10px;
+    border: 10px solid rgb(28, 28, 102);
+    margin: 0 auto;
+}
